@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **a Quran learning app and VSCode Extensions**
 
-- 🏗️ I built the **Ultimate Flutter Extension Pack** to get all the best Flutter Extensions for VSCode in one click
+- 🏗️ I built the [Ultimate Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter) to get all the best Flutter Extensions for VSCode in one click
 
 - 🏭 I am working on a **Flutter Snippet Extension** to put an end to writing boiler plate codes.
 
