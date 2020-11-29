@@ -11,7 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Flutter UI**
 
-- 🤝 I’m looking for help with **a Quran learning app.**
+- 🤝 I’m looking for help with **a Quran learning app and VSCode Extensions**
+
+- 🏗️ I built the **Ultimate Flutter Extension Pack** to get all the best Flutter Extensions for VSCode in one click
+
+- 🏭 I am working on a **Flutter Snippet Extension** to put an end to writing boiler plate codes.
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/zyllus17/)
 
