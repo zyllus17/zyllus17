@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/zyllus17" target="blank"><img src="https://img.shields.io/twitter/follow/zyllus17?logo=twitter&style=for-the-badge" alt="zyllus17" /></a> </p>
 
-- 🔭 I’m currently working on [Aliah University app](https://github.com/zyllus17/Aliah-University-App)
+- 🔭 I’m currently working on [Ox Calculator](), an ad free open-source all in one calculator.
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
 - 👯 I’m looking to collaborate on **Open Source Flutter UI**
 
-- 🤝 I’m looking for help with **a Quran learning app and VSCode Extensions**
+- 🤝 I’m looking for help with **Ox Calculator**
 
-- 🏗️ I built the [Ultimate Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter) to get all the best Flutter Extensions for VSCode in one click
+- 🏗️ I built the [Ultimate Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter) to get all the best Flutter Extensions for VSCode in one click and [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets) to supercharge your Flutter workflow with handy snippets.
 
 - 🏭 I am working on a **Flutter Snippet Extension** to put an end to writing boiler plate codes.
 
