@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyllus17&label=Profile%20views&color=0e75b6&style=flat" alt="zyllus17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zyllus17" target="blank"><img src="https://img.shields.io/twitter/follow/zyllus17?logo=twitter&style=for-the-badge" alt="zyllus17" /></a> </p>
 
-- 🔭 I’m currently working on [Ox Calculator](), an ad free open-source all in one calculator.
+
+- 🔭 I’m currently working on [Ox Calculator](https://github.com/zyllus17/ox_calculator), an ad free open-source brokerage calculator.
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
