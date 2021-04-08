@@ -19,6 +19,8 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/zyllus17/)
 
+- 💻 All the best practices that I have learnt working on a production ready app are mentioned in the [flutter_pro](https://github.com/zyllus17/flutter_pro) repository 
+
 - 📝 I regulary help newbies on Stackoverflow with my [answers](https://stackoverflow.com/users/10068879/maruf-hassan)
 
 - 💬 Ask me about **Flutter, Dart**
