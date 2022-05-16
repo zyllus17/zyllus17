@@ -5,17 +5,17 @@
 
 
 
-- 🔭 I’m currently working on [Ox Calculator](https://github.com/zyllus17/ox_calculator), an ad free open-source brokerage calculator.
+- 🔭 I’m currently working on [FlutterHub](https://play.google.com/store/apps/details?id=com.zyllus.flutterhub), a free online platform that helps developers and designers showcase their work.
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
 - 👯 I’m looking to collaborate on **Open Source Flutter UI**
 
-- 🤝 I’m looking for help with **Ox Calculator**
+- 🤝 I’m looking for help with **FlutterHub**
 
 - 🏗️ I built the [Ultimate Flutter Extension Pack](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter) to get all the best Flutter Extensions for VSCode in one click and [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets) to supercharge your Flutter workflow with handy snippets.
 
-- 🏭 I am working on a **Flutter Snippet Extension** to put an end to writing boiler plate codes.
+- 🏭 I am working on a **Ecommerce App**.
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/zyllus17/)
 
